@@ -1,4 +1,4 @@
-LSGI4244 Lab 3 Code
+# LSGI4244 Lab 3 Code
 
 install.packages("spatstat",repos = "http://cran.r-project.org")
 
